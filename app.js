@@ -22,7 +22,7 @@ function fetchFile(url){
     downloadBtn.innerText = "Download file...";
   }).catch(() => {
     // catch method will call if any error comes during downloading
-    downloadBtn.innerText = "Download file...";
+    downloadBtn.innerText = "Download file";
     alert("Failed to downoload file!")
   })
 }
