@@ -1,3 +1,8 @@
+/*Coding By Yegetaneh Firew  https://github.com/lijnati
+
+platform site: https://lijnati.github.io/Download-Any-File/
+*/
+
 const fileInput = document.querySelector("input"),
 downloadBtn = document.querySelector("button");
 
