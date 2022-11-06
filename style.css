@@ -1,7 +1,6 @@
 /* Import Google Font */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
-
 * {
   margin: 0;
   padding: 0;
@@ -67,7 +66,6 @@ form input:valid ~ button {
   opacity: 1;
   pointer-events: auto;
 }
-
  footer {
   position: absolute;
   bottom: 3%;
