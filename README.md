@@ -1,7 +1,7 @@
-# AnyFile-File Downloader with Vanila-JavaScript
+# Download-AnyFile
 
-AnyFile is a file downloader site - Download Images,Video and PDF 
+Download-AnyFile:- is a simple file downloader web app to download video,image,pdf and many other files
 
 I use the Vanilla JavaScript- this tool is made with pure no server-side language is used to create it.
 
-Access here: https://lijnati.github.io/Download-Any-File/
+Access here: https://download-anyfile.netlify.app
