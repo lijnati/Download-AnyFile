@@ -1,6 +1,4 @@
-# Download-AnyFile-is a simple web application. 
-
-You Can Download Images,Video,PDF
+# Download-AnyFile:- a simple file downloader web app to download video,image,pdf and many other files 
 
 I use the Vanilla JavaScript- this tool is made with pure no server-side language is used to create it.
 
